@@ -3,6 +3,9 @@
 // This code achieves infinite complexity because it shifts the burden of asset creation from the human designer to mathematical rule sets
 // In next-gen 3D gaming, this mathematical pipeline serves as a lightweight, real-time machine for generating infinite visual and behavioral complexity.
 
+// Whether you are writing Rust code for a game engine or analyzing the macroeconomic stability of a state, systems governed by deep, non-linear feedback loops cannot be permanently 
+// stabilized by external damping if the internal displacement forces are too severe. The math dictates that they will eventually bifurcate.
+
 // Input Parameters
 //       |
 //       v
