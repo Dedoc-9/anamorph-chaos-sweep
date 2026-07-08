@@ -1,5 +1,6 @@
 // Recursive Amplification Manifold Computing Pipeline (Rust)
 
+// This code achieves infinite complexity because it shifts the burden of asset creation from the human designer to mathematical rule sets
 // In next-gen 3D gaming, this mathematical pipeline serves as a lightweight, real-time machine for generating infinite visual and behavioral complexity.
 
 // Input Parameters
