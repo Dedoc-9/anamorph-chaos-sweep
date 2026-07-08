@@ -1,5 +1,7 @@
 // Recursive Amplification Manifold Computing Pipeline (Rust)
 
+// In next-gen 3D gaming, this mathematical pipeline serves as a lightweight, real-time machine for generating infinite visual and behavioral complexity.
+
 // Input Parameters
 //       |
 //       v
